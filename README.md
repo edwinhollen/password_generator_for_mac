@@ -4,7 +4,7 @@ A simple dictionary-based password generator script for python3 on Mac OS. I wan
 
 Requires python3
 
-**Usage** 
+**Usage:** 
 
 * Generate 1 password: `python3 generator.py`
 * Generate 100 passwords: `python3 generator.py 100`
